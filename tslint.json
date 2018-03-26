@@ -1,0 +1,22 @@
+{
+    "extends": [
+        "tslint:latest",
+        "tslint-react"
+    ],
+    "rules": {
+        "member-access": false,
+        "no-errors": true,
+        "no-empty": true,
+        "typedef": false,
+        "jsx-no-bind": false,
+        "jsx-alignment": false,
+        "jsx-wrap-multiline": false,
+        "jsx-boolean-value": false,
+        "jsx-self-close": false,
+        "no-empty-interface": false,
+        "no-console": false,
+        "object-literal-sort-keys": false,
+        "ordered-imports": false,
+        "no-submodule-imports": false
+    }
+}
